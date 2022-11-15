@@ -1,0 +1,42 @@
+_repo: Stories-for-children-A-book-for-all-little-girls-and-boys_69251
+_version: 0.0.1
+creator:
+  authors:
+  - &id001
+    agent_name: Colman, Miss (Pamela Atkins)
+    aliases:
+    - Colman, P. A. (Pamela Atkins)
+    - Colman, Pamela Atkins
+    - Colman, Pamelia Atkins
+    - Howard, Pamela Atkins
+    birthdate: 1824
+    deathdate: 1900
+    gutenberg_agent_id: '42567'
+    url: http://www.gutenberg.org/2009/agents/42567
+  - agent_name: Dawes, Rufus
+    gutenberg_agent_id: '55183'
+    url: http://www.gutenberg.org/2009/agents/55183
+  - agent_name: Gray, A. A.
+    gutenberg_agent_id: '55184'
+    url: http://www.gutenberg.org/2009/agents/55184
+  editor: *id001
+description: ''
+gutenberg_issued: '2022-10-28'
+identifiers:
+  gutenberg: '69251'
+language: en
+pgterms:marc904: https://archive.org/details/storiesforchildr00colm2/page/n9/mode/2up
+pgterms:marc905: 20210502231426colman
+pgterms:marc906: '1844'
+pgterms:marc907: US
+production_note: Charlene Taylor, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United States: Howe & Ferry,1844,pubdate 1860.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Stories for children: A book for all little girls and boys'
+url: http://www.gutenberg.org/ebooks/69251
